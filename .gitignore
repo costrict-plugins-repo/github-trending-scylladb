@@ -1,0 +1,17 @@
+# IDE/Editor directories
+.vscode/
+.cursor/
+.windsurf/
+.trae/
+
+# AI Agent directories
+.agent/
+.agents/
+.codex/
+.gemini/
+.goose/
+.kiro/
+.opencode/
+
+.env
+.DS_Store
